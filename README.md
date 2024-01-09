@@ -6,6 +6,8 @@ SaECMO is the proposed algorithm in the paper "A dual-population algorithm based
 
 Please download the files and use them with PlatEMO (https://github.com/BIMK/PlatEMO).
 
+You are free to use the program for research purposes.
+
 ## Reference
 S. Song, K. Zhang, L. Zhang, and N. Wu, “A dual-population algorithm based on self-adaptive epsilon method for constrained multi-objective optimization,”
 Information Sciences, vol. 655, pp. 119906–119906, Jan. 2024, doi: https://doi.org/10.1016/j.ins.2023.119906.
